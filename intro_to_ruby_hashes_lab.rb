@@ -22,7 +22,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  
+  my_hash_creator = {}
   my_hash_creator[key] = value
   return my_hash_creator[key] = value
   
